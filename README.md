@@ -1,4 +1,5 @@
 # Numerical-Simulation-Differential-Equations
+- 相关课程：华南理工大学数学学院微分方程数值解，微分方程数值解课程设计
 ## ReadME
 - This project is related to the course "The Numerical Methods of Differential Equations" at the South China University of Technology, School of Mathematics in Winter 2022, taught by Professor Huang Fenghui. The project is part of the course design for The Numerical Methods of Differential Equations.
 - The project mainly consists of two problems:
